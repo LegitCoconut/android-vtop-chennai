@@ -145,6 +145,12 @@
     <string name="no_marks">There\'s nothing here yet :(</string>
     <string name="not_authenticated">Looks like you aren\'t signed in :(</string>
 
+    <!-- Widget Strings -->
+    <string name="timetable_widget_name">Today\'s Classes</string>
+    <string name="timetable_widget_description">Shows your classes for today</string>
+    <string name="no_classes_today">No classes today</string>
+    <string name="refresh">Refresh</string>
+
     <!-- Other Strings & Strings used in multiple locations -->
     <string name="lab">Lab</string>
     <string name="project">Project</string>
